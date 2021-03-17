@@ -5,23 +5,12 @@ header nav a {
     color: white;
     border: 3px solid black;
     display: inline-block;
-    margin: 20px 30px;
-    width: 28%;
-    min-width: 10px;
     text-decoration: none;
     padding: 13px;
     text-align: center;
     box-sizing: border-box;
 }
-.orange-plan-your-visit {
-    background-color: #FF764E;
-}
-.blue-learn-about-the-park {
-    background-color: #5ED3EB;
-}
-.yellow-get-involved {
-    background-color: #FFCD69;
-}
+
 .history-and-facts {
     color: aqua;
     border: 5px solid blue;
@@ -33,12 +22,12 @@ footer nav a {
     color: white;
     border: 3px solid black;
     display: inline-block;
-    margin: 1%;
-    width: 28%;
+    margin: 1%; 
     min-width: 10px;
     text-decoration: none;
     padding: 13px;
     text-align: center;
+
 }
 h1 {
     font-family: 'Chelsea Market' , cursive;

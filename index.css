@@ -1,0 +1,29 @@
+header nav a {
+    color: aqua;
+    border: 3px solid black;
+    display: inline-block;
+    margin: 1%;
+    width: 28%;
+    min-width: 10px;
+    text-decoration: none;
+    padding: 13px;
+    text-align: center;
+}
+.history-and-facts {
+    color: aqua;
+    border: 20px solid blue;
+    background-color:  #DDB9A3;
+    width: 50;
+
+}
+footer nav a {
+    color: aqua;
+    border: 3px solid black;
+    display: inline-block;
+    margin: 1%;
+    width: 28%;
+    min-width: 10px;
+    text-decoration: none;
+    padding: 13px;
+    text-align: center;
+}

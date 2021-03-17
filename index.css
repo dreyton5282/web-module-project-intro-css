@@ -3,11 +3,12 @@ header nav a {
     border: 3px solid black;
     display: inline-block;
     margin: 1%;
-    width: 28%;
+    width: 20%;
     min-width: 10px;
     text-decoration: none;
     padding: 13px;
     text-align: center;
+    box-sizing: border-box;
 }
 .history-and-facts {
     color: aqua;
@@ -26,4 +27,7 @@ footer nav a {
     text-decoration: none;
     padding: 13px;
     text-align: center;
+}
+h1 {
+    font-family: 'Chelsea Market' , cursive;
 }

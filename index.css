@@ -1,24 +1,36 @@
+* {
+    font-family: 'Roboto Mono' , monospace;
+}
 header nav a {
-    color: aqua;
+    color: white;
     border: 3px solid black;
     display: inline-block;
-    margin: 1%;
-    width: 20%;
+    margin: 20px 30px;
+    width: 28%;
     min-width: 10px;
     text-decoration: none;
     padding: 13px;
     text-align: center;
     box-sizing: border-box;
 }
+.orange-plan-your-visit {
+    background-color: #FF764E;
+}
+.blue-learn-about-the-park {
+    background-color: #5ED3EB;
+}
+.yellow-get-involved {
+    background-color: #FFCD69;
+}
 .history-and-facts {
     color: aqua;
-    border: 20px solid blue;
+    border: 5px solid blue;
     background-color:  #DDB9A3;
     width: 50;
 
 }
 footer nav a {
-    color: aqua;
+    color: white;
     border: 3px solid black;
     display: inline-block;
     margin: 1%;
@@ -30,4 +42,8 @@ footer nav a {
 }
 h1 {
     font-family: 'Chelsea Market' , cursive;
+}
+main {
+    margin: 0 auto;
+    width: 590px;
 }

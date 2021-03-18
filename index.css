@@ -3,34 +3,38 @@
 }
 header nav a {
     color: white;
-    border: 3px solid black;
     display: inline-block;
     text-decoration: none;
-    padding: 13px;
+    padding: 20px;
     text-align: center;
     box-sizing: border-box;
+    margin: 20px 200px;
+    border-radius: 25px;
 }
 
 .history-and-facts {
-    color: aqua;
-    border: 5px solid blue;
+    color: white;
     background-color:  #DDB9A3;
     width: 50;
 
 }
+footer {
+    background-color: #F9E7DC;
+}
+
 footer nav a {
     color: white;
-    border: 3px solid black;
     display: inline-block;
-    margin: 1%; 
-    min-width: 10px;
+    margin: 20px 200px; 
     text-decoration: none;
     padding: 13px;
     text-align: center;
+    border-radius: 25px;
 
 }
 h1 {
     font-family: 'Chelsea Market' , cursive;
+    text-align: center;
 }
 main {
     margin: 0 auto;

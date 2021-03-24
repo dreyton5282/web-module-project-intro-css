@@ -1,6 +1,14 @@
 * {
     font-family: 'Roboto Mono' , monospace;
 }
+h1 {
+    font-family: 'Chelsea Market' , cursive;
+    text-align: center;
+}
+
+header img {
+    height: 20%;
+}
 header nav a {
     color: white;
     display: inline-block;
@@ -8,38 +16,45 @@ header nav a {
     padding: 20px;
     text-align: center;
     box-sizing: border-box;
-    margin: 20px 200px;
+    margin: 20px 170px;
     border-radius: 25px;
+    font-size: 22px;
 }
-
+p {
+    text-align: center;
+}
+main img {
+    width: 140px;
+    height: auto;
+}
 .history-and-facts {
     color: white;
     background-color:  #DDB9A3;
-    width: 90%;
-
+    padding: 20px;
+    margin: 20px;
+    font-size: 22px;
+}
+.fire-info-and-pic {
+    text-align: center;
+}
+.vehicle-info-and-pic {
+    text-align: center;
 }
 footer {
     background-color: #F9E7DC;
 }
 footer img {
     width: 100%;
+    height: 200px;
 }
 
 footer nav a {
     color: white;
     display: inline-block;
-    margin: 20px 200px; 
+    margin: 20px 170px; 
     text-decoration: none;
     padding: 13px;
     text-align: center;
     border-radius: 25px;
-
-}
-h1 {
-    font-family: 'Chelsea Market' , cursive;
-    text-align: center;
-}
-main {
-    margin: 0 auto;
-    width: 590px;
+    font-size: 22px;
 }
